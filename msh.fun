@@ -31,7 +31,81 @@ echo -e $cyan"    Follow me on Github $white":" $red @Screetsec "
 echo -e $cyan"    Dracos Linux        $white":" $red dracos-linux.org "
 echo -e $cyan ""
 echo -e $okegreen"    =========================================================    ";
-		echo -e $white " "
+		echo -e $cyan " "
+}
+banner6(){
+  echo -e $okegreen " "
+  clear
+  echo " "
+  echo "                "
+  echo ""
+  echo "          \|/  "
+  echo "         .-*-   "
+  echo "        / /|\     "
+  echo "       _L_         "
+  echo "     ,     .         "
+  echo -e $okegreen" (\ /  O O  \ /)  $red ______ _______ _______ _______      __ __      "
+  echo -e $okegreen"  \|    _    |/   $red |   __ \_     _|    |  |     __|    |  |  |     "
+  echo -e $okegreen"    \  (_)  /     $red |    __/_|   |_|       |    |  |    |__|__|   "
+  echo -e $okegreen"    _/.___,\_     $red |___|  |_______|__|____|_______|    |__|__|    "
+  echo -e $okegreen"   (_/ alf \_)         "
+  echo -e $cyan " "
+}
+banner7(){
+echo ""
+  echo -e $red " __      __      ___.       _________                  .__              ";
+  echo "/  \    /  \ ____\_ |__    /   _____/ ______________  _|__| ____  ____  ";
+  echo "\   \/\/   // __ \| __ \   \_____  \_/ __ \_  __ \  \/ /  |/ ___\/ __ \ ";
+  echo " \        /\  ___/| \_\ \  /        \  ___/|  | \/\   /|  \  \__\  ___/ ";
+  echo "  \__/\  /  \___  >___  / /_______  /\___  >__|    \_/ |__|\___  >___  >";
+  echo -e $okegreen
+  echo " -----------------------------------------------------------------------"
+  echo -e $cyan " "
+}
+banner8(){
+echo -e $okegreen " "
+echo "   _  _  ___  ____    ____  ____  __  __  ____  ____ ";
+echo "  ( \( )/ __)( ___)  (  _ \(  _ \(  )(  )(_  _)( ___)";
+echo "   )  ( \__ \ )__)    ) _ < )   / )(__)(   )(   )__) ";
+echo "  (_)\_)(___/(____)  (____/(_)\_)(______) (__) (____)";
+echo "                                                   ";
+echo -e $cyan " "
+}
+banner9(){
+echo ""
+echo -e $okegreen" ===================================================================="
+echo -e $cyan""
+echo "           +--^----------,--------,-----,--------^-, "
+echo -e "           | $red |||||||||   --------      |         O "
+echo -e $cyan"           +---------------------------^----------| "
+echo -e $cyan"            \_,---------,---------,--------------' "
+echo -e "              / $red"XXXXXX"$cyan /'|       /' "
+echo -e "             / $red"XXXXXX"$cyan /   \    /' "
+echo -e "            / $red"XXXXXX"$cyan / _______/ "
+echo -e "           / $red"XXXXXX"$cyan / "
+echo -e "           / $red"XXXXXX"$cyan / "
+echo "           (________(   "
+echo -e "            ------'        $red DOUBLE KILL !! GO GO GO !!  "
+echo ""
+echo -e $okegreen" ====================================================================="
+echo -e $cyan "       Scanning Target with $red'advanced command  ( Zenmap Command )  "
+echo -e $okegreen" ====================================================================="
+echo -e $cyan " "
+}
+bannerA(){
+  echo "  "
+  echo "                "
+  echo -e $okegreen"                       /^--^\     /^--^\     /^--^\   $cyan"
+  echo -e $okegreen"                       \____/     \____/     \____/   $cyan "
+  echo -e $okegreen"                      /      \   /      \   /      \  $cyan"
+  echo -e $okegreen"                     |        | |        | |        | $cyan "
+  echo -e $okegreen"                      \__  __/   \__  __/   \__  __/  $cyan  MEONG MOEONG "
+  echo " |^|^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^|^|^| "
+  echo " | | | | | | | | | | | | |\ \| | |/ /| | | | | | \ \ | | | | | | | | | | | "
+  echo " ########################/ /######\ \###########/ /####################### "
+  echo " | | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | | "
+  echo " |_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_| "
+echo -e $cyan " "
 }
 fun1(){
     echo -ne "  What is your IP Target or Host: " ; tput sgr0
